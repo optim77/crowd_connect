@@ -1,0 +1,12 @@
+.ngo-header{
+    background-color: white;
+
+}
+.ngo-footer{
+    height: 50px;
+    margin-top: 30%;
+    bottom:0%;
+    width:100%;
+    background-color: white;
+    opacity: 1;
+}
